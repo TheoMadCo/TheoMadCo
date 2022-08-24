@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=31&pause=1000&color=8E90EE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Matteo;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=31&pause=1000&color=8E90EE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Matteo+!;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">A passionate web developer and Computer Science student from Italy</h3>
 
 - 🌱 I’m currently learning **React**
